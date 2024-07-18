@@ -1,0 +1,48 @@
+body {
+    text-align: left;
+    background-color: #f2ebf9;
+    font-family: Verdana, Geneva, sans-serif;
+    margin: 10%;
+}
+#open {
+    text-align: center;
+}
+
+nav ul {
+    list-style-type: none;
+    padding: 0px;
+    margin: 0px;
+    line-height: 2em;
+    text-align: center;
+}
+
+nav ul li {
+    display: inline;
+    margin-right: 15px;
+}
+
+cite {
+    font-size: small;
+}
+
+.container {
+    max-width: 800px;
+    margin: 0 auto;
+    overflow: auto;
+    line-height: 1.5em;
+}
+
+.photo {
+    Float: left;
+    margin-right: 15px;
+    width: 200px;
+    height: auto;
+}
+
+footer {
+    font-size: small;
+    text-align: center;
+}
+#copyright {
+    line-height: 5em;
+}
